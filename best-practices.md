@@ -53,11 +53,19 @@ We test a product viability and usability by running user interviews. Having a t
   
 1. On the day of the interviews, follow this guide: [The product design sprint: Validate](http://www.gv.com/lib/the-product-design-sprint-validateday5)
 
-After the session, we look at our notes to identify the top problems and we fix them when building the final version.
+1. After the session, we look at our notes to identify the top problems and we fix them when building the final version.
 
 Building & Asseting
 ---------------
 
 1. A full screen layout is 1366 px x 768 px. Keep this in mind when creating the main layout of any final version in Photoshop.
 
+
+![screen](https://cloud.githubusercontent.com/assets/10119544/6787101/7fa8ee5a-d15e-11e4-91c8-b8ae77e0f8a4.jpg)
+
+
 1. Create assets in Photoshop with the *Save for Web* tool only.
+
+
+![save](https://cloud.githubusercontent.com/assets/10119544/6786988/97718f52-d15d-11e4-9729-d58bc7dfc9ff.jpg)
+
