@@ -4,7 +4,8 @@ What is Design for Us?
 Form follows function
 ---------------
 
-Our main goal is to communicate in the most efficient way possible. No clutter, only simple and clear statements. Style is a derivative that enhances, not saturates. 
+Our main goal is to communicate in the most efficient way possible. No clutter, only simple and clear statements.
+Style is a derivative that enhances, not saturates. 
 
 A collaborative process
 ---------------
