@@ -3,10 +3,10 @@ Design Guides
 
 Guides for designing according to the principles of Junto Studio.
 
-* [What is Design for Us?](/what's-design)
-* [Best Practices](/best-practices)
-* [Designing in a Junto Sprint](/sprint)
-* [Designing for Junto](/junto)
+* [What is Design for Us?](/what's-design.md)
+* [Best Practices](/best-practices.md)
+* [Designing in a Junto Sprint](/sprint.md)
+* [Designing for Junto](/junto.md)
 
 Credits
 -------
