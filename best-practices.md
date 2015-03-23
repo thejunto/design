@@ -7,10 +7,10 @@ User Interface
 We evaluate our websites on the following criteria:
 
 1. Is the website’s goal easily attainable and desirable?
-1. Is it simple, easy to comprehend and intuitive? 
+1. Is the website simple, easy to comprehend and intuitive? 
 1. Is the flow through the site obvious?
 1. Do elements relate smartly to each other? 
-1. Is it congruent and consistent as a whole?
+1. Is the website congruent and consistent as a whole?
 
 Interaction Design
 ---------------
