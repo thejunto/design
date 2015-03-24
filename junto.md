@@ -87,5 +87,8 @@ Colors
 
 #### Primary Palette
 
-Each variant of gray must pair with Junto Blue and our secondary colors. Yellow, Aqcua, Green and White complete the set.
+Each variant of gray must pair with Junto Blue and our secondary colors. 
+Yellow, Aqcua, Green and White complete the set.
+
+![palette](https://cloud.githubusercontent.com/assets/10119544/6810384/4741ba9e-d22e-11e4-8c9a-3d7d7f1c0a23.jpg)
 
