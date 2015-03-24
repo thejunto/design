@@ -41,7 +41,23 @@ Here are other guides you should have in mind when contribuiting:
   - No gerunds.
   
 1. **Sans Serif Typefaces**    
-   Avoid distracting the reader with cumbersome typefaces. Some recurrent examples are GT Walsheim, Proxima Nova, Avenir Next and Gotham.
+   Avoid distracting the reader with cumbersome typefaces. Some recurrent examples are:
+
+GT Walsheim
+
+![walsheim](https://cloud.githubusercontent.com/assets/10119544/6809859/0f926a88-d22b-11e4-9819-cac3f4e5c421.jpg)
+
+Avenir Next
+
+![avenir](https://cloud.githubusercontent.com/assets/10119544/6809873/27ec7bb4-d22b-11e4-9cc0-6d0e90ee8b03.jpg)
+
+Gotham
+
+![gotham](https://cloud.githubusercontent.com/assets/10119544/6809874/27ee1b86-d22b-11e4-94fa-fa3e4e8d62f3.jpg)
+
+Proxima Nova
+
+![proxima-nova](https://cloud.githubusercontent.com/assets/10119544/6809875/27f2edb4-d22b-11e4-9f63-3fdd121f55f3.jpg)
 
 The Logo
 ---------------
