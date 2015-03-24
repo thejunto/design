@@ -90,5 +90,6 @@ Colors
 Each variant of gray must pair with Junto Blue and our secondary colors (See example below).     
    Aqcua, Yellow, Green and White complete the set.
 
-![palette](https://cloud.githubusercontent.com/assets/10119544/6810384/4741ba9e-d22e-11e4-8c9a-3d7d7f1c0a23.jpg)
+![palette](https://cloud.githubusercontent.com/assets/10119544/6810875/f2c87dbe-d231-11e4-892f-fc40cfd71f75.jpg)
+
 
