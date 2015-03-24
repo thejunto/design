@@ -1,6 +1,9 @@
 Best Practices
 ============
 
+
+We create Smart Sites. Please, take the time to read this [Guide to Create Smart Sites](http://www.dtelepathy.com/blog/news-events/impress-smart-site).
+
 User Interface
 ---------------
 
@@ -20,12 +23,15 @@ Manipulation of the website makes it come to life. We use these interactions for
 Visual Design
 ---------------
 
-Visual design is the style. We use the [universal design principles](https://upcase.com/design-for-developers-resources/principles?__hstc=28062627.771b37efac40599ec33e88d12b25eeb5.1424830187104.1424830187104.1426308747136.2&__hssc=28062627.1.1426308747136&__hsfp=499586661) to communicate and bring order. Those fundamentals include:
+Visual design is the style. We use the [universal design principles](https://upcase.com/design-for-developers-resources/principles?__hstc=28062627.771b37efac40599ec33e88d12b25eeb5.1424830187104.1424830187104.1426308747136.2&__hssc=28062627.1.1426308747136&__hsfp=499586661) to communicate and bring order. Those fundamentals are:
 
 1. Alignment 
-1. Emphasis 
+1. Emphasis
+1. Hierarchy 
 1. Consistency 
-1. Whitespace 
+1. White Space 
+1. Balance
+1. Unity
 
 User Interviews & Testing
 ---------------
@@ -68,4 +74,6 @@ Building & Asseting
 
 
 ![save](https://cloud.githubusercontent.com/assets/10119544/6786988/97718f52-d15d-11e4-9729-d58bc7dfc9ff.jpg)
+
+1. When assets are already created, save them in a file with the project's name and upload it to Junto's shared Dropbox.
 
