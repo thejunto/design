@@ -14,6 +14,7 @@ Principles
 1. Smart
 
 1. Fun
+
 The Junto brand has a friendly and empathic feel. It's meant to communicate the joy of learning.
 
 
