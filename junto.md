@@ -6,7 +6,7 @@ Junto Studio marks include, but are not limited to, the Junto Studio name, "Pear
 Don't modify the marks or use them in a confusing way, including suggesting sponsorship or endorsement by Junto Studio, or in a way that confuses Junto Studio with another studio or brand.
 
 
-[Main Website](www.juntostudio.com)
+[Main Website](http://www.juntostudio.com)
 ---------------
 
 #### Fun
@@ -15,7 +15,7 @@ The Junto brand is friendly and empathic. It's meant to communicate the joy of l
 
 #### Simple & Smart
 
-We achive simplicity by **reducing and substracting**. Before putting somehting out in the wild, we boil it down so it's easy to understand and use. Our website encaptures this practice.
+We achive simplicity by **reducing and substracting**. Before putting something out in the wild, we boil it down so it's easy to understand and use. Our website encaptures this practice.
 
 Check our [Design Principles] (https://github.com/thejunto/design/blob/master/what's-design.md) to have a better grasp on the set of forces behind the main website's design.
 
@@ -35,13 +35,13 @@ Here are other guides you should have in mind when contribuiting:
   - Use concrete nouns.
   - Make one clause sentences.
   - Don't be self-referential. 
-  - No clichés.
-  - No nominalization.
-  - No passive voice.
-  - No gerunds.
+  - Avoid clichés.
+  - Avoid nominalization.
+  - Avoid passive voice.
+  - Avoid gerunds.
   
 1. **Sans Serif Typefaces**    
-   Avoid distracting the reader with cumbersome typefaces. Some recurrent examples are:
+   Avoid distracting the reader with cumbersome typefaces. These are some of our recurrent typefaces:
     
 GT Walsheim
 
@@ -75,7 +75,7 @@ Our logo is always either full-colored or white. The Pear Ship is never shown in
 #### Don’t:
 
 * Use speech bubbles or words around it.
-* Rotate or change its directio.
+* Rotate or change its direction.
 * Animate it.
 * Change its color.
 * Overprint or obstruct any of its parts.
@@ -87,8 +87,8 @@ Colors
 
 #### Primary Palette
 
-Each variant of gray must pair with Junto Blue and our secondary colors (See example below).     
-   Aqcua, Yellow, Green and White complete the set.
+Each variant of gray must pair with Junto Blue and our secondary colors (See example below, #F2F2F2).     
+   Aqcua #6AA89B, Yellow #FDB915, Green #42B574 and White complete the set.
 
 ![palette](https://cloud.githubusercontent.com/assets/10119544/6810875/f2c87dbe-d231-11e4-892f-fc40cfd71f75.jpg)
 
